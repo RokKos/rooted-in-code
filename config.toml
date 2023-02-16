@@ -168,7 +168,7 @@ weight = 1
 
 [[Languages.slo.menu.main]]
 name = "Kratko o projektu"
-pre = "slo/#"
+pre = "/slo/#"
 url = "about"
 weight = 2
 
