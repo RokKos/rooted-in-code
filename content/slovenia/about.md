@@ -1,11 +1,6 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
+title : "KRATKO O <br> PROJEKTU"
 image : "images/backgrounds/portrait.jpg"
-# button
-button:
-  enable : true
-  label : "DOWNLOAD MY CV"
-  link : "#"
 
 # custom style
 custom_class: "" 

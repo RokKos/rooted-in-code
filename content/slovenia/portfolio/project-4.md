@@ -1,10 +1,23 @@
 ---
-title: "This Is A Simple Blog Post"
+title: "Project Title"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item6.jpg"
-tags: ["design","web"]
+image: "images/portfolio/item4.jpg"
+categories: ["database"]
 description: "This is meta description."
 draft: false
+project_info:
+- name: "Client"
+  icon: "fas fa-user"
+  content: "John Doe"
+- name: "Project Link"
+  icon: "fas fa-link"
+  content: "https://examplesite.com/"
+- name: "New Item"
+  icon: "fas fa-globe"
+  content: "Add whatever you want"
+- name: "Loop Item"
+  icon: "fas fa-redo"
+  content: "This is in a loop"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
@@ -14,7 +27,7 @@ fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in c
 mollit anim id est laborum.
 
 
-#### Heading Ulala!
+#### Project Details
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
@@ -26,7 +39,7 @@ dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur au
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
 
 
-#### One More Heading
+#### Project Requirements
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
