@@ -1,6 +1,5 @@
 ---
 title : DIALOGI
-service_list:
 
 
 # custom style
