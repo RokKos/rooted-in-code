@@ -9,6 +9,11 @@ button:
   link : https://docs.google.com/viewer?url=https://github.com/conradborchers/borchers-cv/raw/master/borchers-cv.pdf&embedded=true
 
 
+book_slider:
+- image: "images/clients/client1.jpg"
+- image: "images/clients/client2.jpg"
+- image: "images/clients/client3.jpg"
+
 # custom style
 custom_class: "" 
 custom_attributes: "" 
