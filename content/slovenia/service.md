@@ -1,5 +1,5 @@
 ---
-title : DIALOGI
+title : 
 
 
 # custom style

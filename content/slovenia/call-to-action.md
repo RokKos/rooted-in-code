@@ -1,5 +1,5 @@
 ---
-title : "O knjigi"
+title : "ECO FICTION ANTHOLOGY "
 image : "images/backgrounds/portrait.jpg"
 
 button:
@@ -10,9 +10,10 @@ button:
 
 
 book_slider:
-- image: "images/clients/client1.jpg"
-- image: "images/clients/client2.jpg"
-- image: "images/clients/client3.jpg"
+- image: "images/book/book01.jpg"
+- image: "images/book/book02.jpg"
+- image: "images/book/book03.jpg"
+- image: "images/book/book04.jpg"
 
 # custom style
 custom_class: "" 
@@ -20,8 +21,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Short fiction stories are set in different worlds and potential situations of present and future time. They are researching our ways of coexisting from the perspective of humans, as well as animate and inanimate nature. The stories in the book, suitable for older and younger generations, are complemented by a semi-scientific article, which can be a good starting point for a deeper research on the topic.
