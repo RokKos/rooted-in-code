@@ -1,9 +1,5 @@
 ---
 title : "ANOTHER FUTURE ENTIRELY"
-# full screen navigation
-first_name : "Another Future "
-last_name : "Entirely"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
 
 # slider background image loop
 slider_images:
