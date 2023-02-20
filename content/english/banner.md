@@ -13,6 +13,10 @@ slider_images:
 - "images/slider/slider-8.jpg"
 - "images/slider/slider-9.jpg"
 
+animated_text:
+- "environmental art & research project + book"
+- "produced with the assistance of an AI"
+
 
 # custom style
 custom_class: "" 
@@ -20,8 +24,4 @@ custom_attributes: ""
 custom_css: ""
 
 ---
-environmental art & research project + book; 
-<br>
-produced with the assistance of an AI
-
 by Nejc Trampuž
