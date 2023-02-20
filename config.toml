@@ -96,7 +96,7 @@ link = "https://www.linkedin.com/in/somratpro"
 
 ################################### English language #####################################
 [Languages.en]
-languageName = "En"
+languageName = ":flag_gb:"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
@@ -146,7 +146,7 @@ weight = 6
 
 ################################### Slovene language #####################################
 [Languages.slo]
-languageName = "SLO"
+languageName = ":flag_si:"
 languageCode = "slo-slo"
 contentDir = "content/slovenia"
 weight = 1
