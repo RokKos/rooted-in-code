@@ -1,6 +1,5 @@
 ---
 title : "ECO FICTION ANTHOLOGY "
-image : "images/backgrounds/portrait.jpg"
 
 button:
   enable : true

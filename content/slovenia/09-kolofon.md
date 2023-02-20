@@ -1,5 +1,5 @@
 ---
-title : Obrazstavno besedilo
+title : Kolofon
 
 
 # custom style
