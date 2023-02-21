@@ -20,6 +20,8 @@ home = ["HTML"]
 
 [markup.goldmark.renderer]
 unsafe= true
+hardWraps = false
+xhtml = false
 
 ############################# Plugins ##############################
 
@@ -228,3 +230,10 @@ name = "Kolofon"
 pre = "#"
 url = "kolofon"
 weight = 9
+
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 50
+  resampleFilter = 'Box'
