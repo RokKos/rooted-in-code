@@ -235,5 +235,5 @@ weight = 9
   anchor = 'Smart'
   bgColor = '#ffffff'
   hint = 'photo'
-  quality = 50
+  quality = 90
   resampleFilter = 'Box'
