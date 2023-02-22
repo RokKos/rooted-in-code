@@ -5,7 +5,7 @@ button:
   enable : true
   label : "ODPRI KNJIGO"
   # METHOD FROM HERE
-  link : "pdf/AFE_interactive_spreads.pdf"
+  link : "/pdf/AFE_interactive_spreads.pdf"
 
 # custom style
 custom_class: "" 

@@ -5,7 +5,7 @@ button:
   enable : true
   label : "OPEN BOOK"
   # METHOD FROM HERE
-  link : "pdf/AFE_interactive_spreads.pdf"
+  link : "/pdf/AFE_interactive_spreads.pdf"
 
 
 book_slider:
