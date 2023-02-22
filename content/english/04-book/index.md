@@ -5,7 +5,7 @@ button:
   enable : true
   label : "OPEN BOOK"
   # METHOD FROM HERE
-  link : https://docs.google.com/viewer?url=https://github.com/conradborchers/borchers-cv/raw/master/borchers-cv.pdf&embedded=true
+  link : "pdf/AFE_interactive_spreads.pdf"
 
 
 book_slider:
