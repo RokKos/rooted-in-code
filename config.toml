@@ -128,7 +128,7 @@ url = "team"
 weight = 6
 
 [[Languages.en.menu.main]]
-name = "Other Info"
+name = "Info"
 pre = "#"
 url = "project-exhibitions"
 weight = 7
