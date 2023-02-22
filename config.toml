@@ -110,22 +110,10 @@ url = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Video Presentation"
+name = "About"
 pre = "#"
 url = "video-presentation"
 weight = 2
-
-[[Languages.en.menu.main]]
-name = "About Project"
-pre = "#"
-url = "about"
-weight = 3
-
-[[Languages.en.menu.main]]
-name = "Dialogs"
-pre = "#"
-url = "dialogs"
-weight = 4
 
 [[Languages.en.menu.main]]
 name = "Book"
@@ -140,22 +128,11 @@ url = "team"
 weight = 6
 
 [[Languages.en.menu.main]]
-name = "Project Exhibitions"
+name = "Other Info"
 pre = "#"
 url = "project-exhibitions"
 weight = 7
 
-[[Languages.en.menu.main]]
-name = "Media Coverage"
-pre = "#"
-url = "media-coverage"
-weight = 8
-
-[[Languages.en.menu.main]]
-name = "Kolofon"
-pre = "#"
-url = "kolofon"
-weight = 9
 
 
 ################################### Slovene language #####################################
