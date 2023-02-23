@@ -38,6 +38,10 @@ link = "plugins/owl-carousel/owl.carousel.min.css"
 link = "plugins/owl-carousel/owl.theme.default.min.css"
 [[params.plugins.css]]
 link = "plugins/text-animation/text-animation.css"
+[[params.plugins.css]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+
+
 
 # JS Plugins
 [[params.plugins.js]]
