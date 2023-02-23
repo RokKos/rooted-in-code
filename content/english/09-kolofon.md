@@ -8,10 +8,33 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+PROJECT  
+Artist: Nejc Trampuž   
+Curator and producer Adrijan Praznik   
+Programmer: Rok Kos  
+Sound design: Tim Kropivšek  
+3D design: Brina Meze-Petrić  
+Organization and head of project: Gašper Beg, Adrijan Praznik  
+Programmer and advisor in the initial phase of the project: Srđan Prodanović  
+Technician: Maid Hadžihasanović  
+Acknowledgments: Anže Čanžek, Sašo Dolenc, Saša Spačal, Katarina Trstenjak, Polona Kalc, Izidor Ostan Ožbolt, Simon Gmajner, Filip Dobranić, Saša Škof, Nika Tavčar, Taj Zavodnik, Helena Vrbanac, Zavod Projekt Atol, Društvo Ljudmila, CONA | Zavod za procesiranje sodobne umetnosti  
+Project producer: LokalPatriot | Galerija Simulaker and konS ≡ Platforma za sodobno raziskovalno umetnost  
 <!-- section break -->
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+PUBLICATION  
+Stories and collages: Nejc Trampuž (with the aid of GPT-3/OpenAI and Midjourney)  
+Introduction: Adrijan Praznik  
+Expert text: Rok Kranjc  
+Editors: Adrijan Praznik, Nejc Trampuž  
+Graphic design: Ajda Auer  
+Programmer for digitally archiving texts: Srđan Prodanović  
+Slovene translations: Marko Djukić, Rok Kranjc  
+English translations: Sunčan Patrick Stone  
+Slovene language editing: Jezikovna zadruga Soglasnik, z.o.o.  
+English language editing: Dean DeVos  
+Printed by: Birografika Bori  
+Published by: LokalPatriot, Novo mesto  
+Year of publication: 2023   
+Print edition: 150 copies  
+Distributed free of charge  
+<!-- section break -->
+konS ≡ Platform for Contemporary Investigative Art is a project chosen on the public call for the selection of the operations “Network of Investigative Art and Culture Centres”. The investment is co-financed by the Republic of Slovenia and by the European Regional Development Fund of the European Union.
