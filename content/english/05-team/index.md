@@ -43,7 +43,7 @@ team_core:
   image : "ajda.jpg"
   role : "graphic design of the book"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut arcu lectus, blandit id orci varius, ultrices feugiat massa. Duis bibendum dignissim neque sed faucibus. Vestibulum interdum ligula sollicitudin lorem tristique, nec fringilla magna dictum. "
-  link : "ajdaauer.com"
+  link : "https://ajdaauer.com"
   link_icon: "fa fa-link"
             
 - name : "Rok Kranjc"
