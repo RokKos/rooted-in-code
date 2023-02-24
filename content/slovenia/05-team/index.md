@@ -53,10 +53,7 @@ team_core:
   link : "https://linktr.ee/futurescraft "
   link_icon: "fa fa-link"
 
-# custom style
-custom_class: "" 
-custom_attributes: "" 
-custom_css: ""
+OthersURL: "#kolofon"
 ---
 
 & others

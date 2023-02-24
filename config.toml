@@ -155,39 +155,27 @@ weight = 3
 
 [[Languages.slo.menu.main]]
 name = "Dialogi"
-pre = "#"
+pre = "/slo/#"
 url = "dialogs"
 weight = 4
 
 [[Languages.slo.menu.main]]
 name = "Knjiga"
-pre = "#"
+pre = "/slo/#"
 url = "book"
 weight = 5
 
 [[Languages.slo.menu.main]]
 name = "Ekipa"
-pre = "#"
+pre = "/slo/#"
 url = "team"
 weight = 6
 
 [[Languages.slo.menu.main]]
 name = "Project Exhibitions"
-pre = "#"
+pre = "/slo/#"
 url = "project-exhibitions"
 weight = 7
-
-[[Languages.slo.menu.main]]
-name = "Media Coverage"
-pre = "#"
-url = "media-coverage"
-weight = 8
-
-[[Languages.slo.menu.main]]
-name = "Kolofon"
-pre = "#"
-url = "kolofon"
-weight = 9
 
 [imaging]
   anchor = 'Smart'
