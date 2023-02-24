@@ -1,10 +1,5 @@
 ---
 title : "PROJECT EXHIBITIONS:"
-
-# custom style
-custom_class: "" 
-custom_attributes: "" 
-custom_css: ""
 ---
 
 1. SOLO: Another Future Entirely, Simulaker Gallery (Slovenia, Novo mesto, 20 January 2023–18 February 2023,)

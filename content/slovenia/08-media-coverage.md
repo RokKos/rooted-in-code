@@ -1,10 +1,5 @@
 ---
 title : "MEDIA COVERAGE:"
-
-# custom style
-custom_class: "" 
-custom_attributes: "" 
-custom_css: ""
 ---
 
 1. https://www.rtvslo.si/kultura/vizualna-umetnost/popolnoma-drugacna-prihodnost-iskanje-poti-iz-stisk-v-katerih-se-je-znasel-svet/655195 

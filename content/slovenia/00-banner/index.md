@@ -16,11 +16,6 @@ slider_images:
 - "images/slider/slider-8.wepb"
 - "images/slider/slider-9.wepb"
 
-# custom style
-custom_class: "" 
-custom_attributes: "" 
-custom_css: ""
-
 ---
 <!-- Content -->
 by Nejc Trampuž
