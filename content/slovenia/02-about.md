@@ -4,7 +4,7 @@ image : "images/backgrounds/portrait.jpg"
 
 button:
   enable : true
-  label : "ODPRI KNJIGO"
+  label : "PREBERI VEČ"
   # METHOD FROM HERE
   link : "/pdf/AFE_interactive_spreads.pdf"
 ---

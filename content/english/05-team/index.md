@@ -1,5 +1,5 @@
 ---
-title : "Ekipa"
+title : "TEAM"
 
 team_lead_name: "Nejc Trampuž"
 team_lead_image: "nejc.jpg"

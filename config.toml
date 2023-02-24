@@ -39,7 +39,7 @@ link = "plugins/owl-carousel/owl.theme.default.min.css"
 [[params.plugins.css]]
 link = "plugins/text-animation/text-animation.css"
 [[params.plugins.css]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
 [[params.plugins.css]]
 link = "plugins/baguetteBox/baguetteBox.min.css"
 
@@ -91,16 +91,18 @@ copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netli
 ################# english navigation ##################
 
 # main menu
-[[Languages.en.menu.main]]
-name = "Home"
-url = "/"
-weight = 1
 
 [[Languages.en.menu.main]]
 name = "About"
 pre = "#"
 url = "video-presentation"
 weight = 2
+
+[[Languages.en.menu.main]]
+name = "Dialogues"
+pre = "#"
+url = "dialogs"
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "Book"
@@ -136,10 +138,6 @@ copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netli
 ################# english navigation ##################
 
 # main menu
-[[Languages.slo.menu.main]]
-name = "Domov"
-url = "/slo/"
-weight = 1
 
 [[Languages.slo.menu.main]]
 name = "Video predstavitev"

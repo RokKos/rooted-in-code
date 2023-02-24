@@ -3,7 +3,7 @@ title : ""
 
 button:
   enable : true
-  label : "ODPRI KNJIGO"
+  label : "READ MORE"
   # METHOD FROM HERE
   link : "/pdf/AFE_interactive_spreads.pdf"
 ---
@@ -16,5 +16,5 @@ During his research and all the way to the final realization of his project, Nej
 <!-- Small Text -->
 The project, which was premiered in 2023 at the Simulaker Gallery (Novo mesto, Slovenia), was produced under the patronage of the institute LokalPatriot and KonS ≡ Platform for Contemporary Investigative Arts (Ljubljana, Slovenia).
 
-summarized from the introduction text by Adrijan Praznik, Another Future Entirely, 2023
+Summarized from the introduction text by Adrijan Praznik, Another Future Entirely, 2023.
 
