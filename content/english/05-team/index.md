@@ -27,7 +27,7 @@ team_core:
   text_color: "#987ab7"
 
 - name : "Brina Meze Petrić"
-  image : "brina.jpg"
+  image : "brina.webp"
   role : "3D modeling"
   description : "Brina Meze-Petrić (1996) is an architect, VJ and musician. She obtained her master’s degree from architecture at the Akademie der bildenden Künste Wien (AT). Her favourite form of expression is 3D modelling, video, comics, info graphics and collage."
   link : "https://instagram.com/brinamp"
