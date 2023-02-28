@@ -29,8 +29,6 @@ xhtml = false
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/hover/hover.css"
-[[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/owl-carousel/owl.carousel.min.css"
