@@ -20,7 +20,7 @@ team_core:
 
 - name : "Rok Kos"
   image : "rok.jpg"
-  role : "programming"
+  role : "programmer"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut arcu lectus, blandit id orci varius, ultrices feugiat massa. Duis bibendum dignissim neque sed faucibus. Vestibulum interdum ligula sollicitudin lorem tristique, nec fringilla magna dictum."
   link : "https://vsemu-kos.si"
   link_icon: "fa fa-link"
@@ -28,7 +28,7 @@ team_core:
 
 - name : "Brina Meze Petrić"
   image : "brina.webp"
-  role : "3D modeling"
+  role : "3D design"
   description : "Brina Meze-Petrić (1996) is an architect, VJ and musician. She obtained her master’s degree from architecture at the Akademie der bildenden Künste Wien (AT). Her favourite form of expression is 3D modelling, video, comics, info graphics and collage."
   link : "https://instagram.com/brinamp"
   link_icon: "fab fa-instagram"
@@ -44,16 +44,16 @@ team_core:
 
 
 - name : "Ajda Auer"
-  image : "ajda.jpg"
+  image : "ajda.png"
   role : "graphic design of the book"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut arcu lectus, blandit id orci varius, ultrices feugiat massa. Duis bibendum dignissim neque sed faucibus. Vestibulum interdum ligula sollicitudin lorem tristique, nec fringilla magna dictum. "
+  description : "Ajda (1994) is a graphic designer whose works are based on eye-catching typography and attractive color combinations. She graduated in visual communications at the Faculty of Design, studied graphic arts at the Art Academy of Latvia, and continued her master’s studies at the ALUO. Besides freelancing, she is currently employed as a marketing and PR assistant at the SNT Drama Ljubljana."
   link : "https://ajdaauer.com"
   link_icon: "fa fa-link"
   text_color: "#a7802d"
             
 - name : "Rok Kranjc"
   image : "rok-kranjc.jpg"
-  role : "wrote the article in a book"
+  role : "academic article"
   description : "Rok Kranjc is an eco-social transformations researcher, designer and translator. He is the founder of Futurescraft, a research and design studio for experiential futures, generative games and other forms of engagement with alternative economies."
   link : "https://linktr.ee/futurescraft "
   link_icon: "fa fa-link"
