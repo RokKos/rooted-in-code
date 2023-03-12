@@ -13,7 +13,10 @@ team_core:
 - name : "Adrijan Praznik"
   image : "adrijan.jpg"
   role : "curator / producer"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut arcu lectus, blandit id orci varius, ultrices feugiat massa. Duis bibendum dignissim neque sed faucibus. Vestibulum interdum ligula sollicitudin lorem tristique, nec fringilla magna dictum."
+  description : "Adrijan Praznik (1988) is a painter, curator, and producer. He has presented his work in
+numerous exhibitions, including Time Without Innocence at the Museum of Modern Art (SI) and the
+viennacontemporary art fair (AT). He is the artistic director of the Simulaker Gallery in Novo mesto
+and works as a curator and producer for the project konS."
   link : "https://instagram.com/adrijan_praznik"
   link_icon: "fab fa-instagram"
   text_color: "#005844"
@@ -23,7 +26,7 @@ team_core:
   role : "programmer"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut arcu lectus, blandit id orci varius, ultrices feugiat massa. Duis bibendum dignissim neque sed faucibus. Vestibulum interdum ligula sollicitudin lorem tristique, nec fringilla magna dictum."
   link : "https://vsemu-kos.si"
-  link_icon: "fa fa-link"
+  link_icon: "far fa-share-square"
   text_color: "#987ab7"
 
 - name : "Brina Meze Petrić"
@@ -48,7 +51,7 @@ team_core:
   role : "graphic design of the book"
   description : "Ajda (1994) is a graphic designer whose works are based on eye-catching typography and attractive color combinations. She graduated in visual communications at the Faculty of Design, studied graphic arts at the Art Academy of Latvia, and continued her master’s studies at the ALUO. Besides freelancing, she is currently employed as a marketing and PR assistant at the SNT Drama Ljubljana."
   link : "https://ajdaauer.com"
-  link_icon: "fa fa-link"
+  link_icon: "far fa-share-square"
   text_color: "#a7802d"
             
 - name : "Rok Kranjc"
@@ -56,7 +59,7 @@ team_core:
   role : "academic article"
   description : "Rok Kranjc is an eco-social transformations researcher, designer and translator. He is the founder of Futurescraft, a research and design studio for experiential futures, generative games and other forms of engagement with alternative economies."
   link : "https://linktr.ee/futurescraft "
-  link_icon: "fa fa-link"
+  link_icon: "far fa-share-square"
   text_color: "#ed1944"
 
 OthersURL: "#kolofon"
