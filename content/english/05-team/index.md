@@ -22,7 +22,7 @@ and works as a curator and producer for the project konS."
   text_color: "#005844"
 
 - name : "Rok Kos"
-  image : "rok.webp"
+  image : "ajda.webp"
   role : "programmer"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut arcu lectus, blandit id orci varius, ultrices feugiat massa. Duis bibendum dignissim neque sed faucibus. Vestibulum interdum ligula sollicitudin lorem tristique, nec fringilla magna dictum."
   link : "https://vsemu-kos.si"
