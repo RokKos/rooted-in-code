@@ -1,9 +1,9 @@
 ---
-title : Colophon
+title : COLOPHON
 
 ---
 
-PROJECT  
+**PROJECT**  
 Artist: Nejc Trampuž   
 Curator and producer Adrijan Praznik   
 Programmer: Rok Kos  
@@ -15,7 +15,7 @@ Technician: Maid Hadžihasanović
 Acknowledgments: Anže Čanžek, Sašo Dolenc, Saša Spačal, Katarina Trstenjak, Polona Kalc, Izidor Ostan Ožbolt, Simon Gmajner, Filip Dobranić, Saša Škof, Nika Tavčar, Taj Zavodnik, Helena Vrbanac, Zavod Projekt Atol, Društvo Ljudmila, CONA | Zavod za procesiranje sodobne umetnosti  
 Project producer: LokalPatriot | Galerija Simulaker and konS ≡ Platforma za sodobno raziskovalno umetnost  
 <!-- section break -->
-PUBLICATION  
+**PUBLICATION**  
 Stories and collages: Nejc Trampuž (with the aid of GPT-3/OpenAI and Midjourney)  
 Introduction: Adrijan Praznik  
 Expert text: Rok Kranjc  
