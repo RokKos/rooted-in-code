@@ -2,8 +2,8 @@
 title : "ANOTHER FUTURE ENTIRELY"
 
 animated_text:
-- "environmental art & research project + book"
-- "produced with the assistance of an AI"
+- "okoljevarstveni umetniško-raziskovalni projekt + knjiga"
+- "ustvarjen s pomočjo umetne inteligence"
 
 slider_images:
 - "images/slider/slider-1.wepb"
@@ -18,4 +18,4 @@ slider_images:
 
 ---
 <!-- Content -->
-by Nejc Trampuž
+avtor Nejc Trampuž

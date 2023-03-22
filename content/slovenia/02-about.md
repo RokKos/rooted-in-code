@@ -1,6 +1,5 @@
 ---
 title : ""
-image : "images/backgrounds/portrait.jpg"
 
 button:
   enable : true
@@ -8,14 +7,10 @@ button:
   # METHOD FROM HERE
   link : "/pdf/AFE_interactive_spreads.pdf"
 ---
-
-Another Future Entirely presents a multi-layered art and research project created by Nejc Trampuž. Research-oriented work comprises a multimedia installation and a publication of the same name, addressing current environmental issues of the Anthropocene and observing the accelerating changes driven by late capitalism, such as global warming and biodiversity loss. With this project, we wish to present some potential solutions to the pressing environmental issues and optimistic answers to various blemishes created by 21st-century society that promote a purposeful view of our shared future. The goal is to challenge our traditional assumptions and beliefs and strengthen our environmental awareness, thus creating a space for contemplating the immediate future within our primary ecosystem – Planet Earth. 
-
-During his research and all the way to the final realization of his project, Nejc Trampuž used various algorithmic functions available today. The dialogues, presented as a two-channel audio-visual projection, as well as the stories and collages published in the eco fiction anthology book of short stories, were created with the assistance of artificial intelligence.
-
-
+Multimedijski raziskovalni umetniški projekt Another Future Entirely (Popolnoma drugačna prihodnost) avtorja Nejca Trampuža temelji na umetni inteligenci in ponuja osvežujoč pristop k ozaveščanju o okolju.  Vključuje avdio-vizualno projekcijo dialogov in antologijo kratkih znanstvenofantastičnih zgodb, ki predstavljajo svetlejšo, trajnostno prihodnost in socialno pravičnost.
+<br/><br/>
+Kakšna pa bi v resnici lahko bila bolj ekološka družba? Kakšne bi morale biti naše vrednote? Bi se morali znebiti kapitalizma? Ali je tehnologija res rešitev? Kako lahko dosežemo odpornost v obziru na podnebne spremembe? Je vse to le utopija?
+<br/><br/>
+S pomočjo tehnologije prihodnosti – umetne inteligence (UI), je Trampuž ustvaril orodje, ki nam prikazuje potencialno bodočnost, kjer je zaščita ekosistema in socialna pravičnost prednostna naloga in kjer lahko razvijamo rešitve za globalne izzive, ki jih poganjajo pozni kapitalizem in prekomerno potrošništvo, kot sta globalno segrevanje in izguba biotske raznovrstnosti. UI se uči iz vsebin, ki jih ustvarjajo ljudje, zato predstavlja ogledalo našega diskurza in družbe. Hkrati nam omogoča, da zapustimo poznano in vstopimo v področje neobstoječega. Nedvomno bo to orodje globoko vplivalo na našo družbo ter tudi na našo umetniško in ustvarjalno produkcijo. Zato Trampuž verjame, da moramo raziskati to novo tehnologijo in njene uporabne vrednosti ter istočasno opozarjati na nekatere škodljive posledice, ki jih lahko ta tehnologija prinese. UI je bila uporabljen za pisanje besedil in generiranje podob, ki so bile nato kolažirane v končni izdelek.
 <!-- Small Text -->
-The project, which was premiered in 2023 at the Simulaker Gallery (Novo mesto, Slovenia), was produced under the patronage of the institute LokalPatriot and KonS ≡ Platform for Contemporary Investigative Arts (Ljubljana, Slovenia).
-
-summarized from the introduction text by Adrijan Praznik, Another Future Entirely, 2023
-
+Projekt, ki je bil premierno predstavljen januarja 2023 v galeriji Simulaker (Novo mesto), je bil izdelan pod produkcijskim okriljem inštituta LokalPatriot (Novo mesto) in KonS ≡ platforme za sodobno raziskovalno umetnost (Ljubljana).

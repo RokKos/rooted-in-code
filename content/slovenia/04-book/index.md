@@ -1,9 +1,9 @@
 ---
-title : "ECO FICTION ANTHOLOGY "
+title : "ANTOLOGIJA EKO FIKCIJE"
 
 button:
   enable : true
-  label : "OPEN BOOK"
+  label : "PRENESI KNJIGO V .PDF"
   # METHOD FROM HERE
   link : "/pdf/AFE_interactive_spreads.pdf"
 
@@ -14,5 +14,4 @@ book_slider:
 - image: "images/book/book03.jpg"
 - image: "images/book/book04.jpg"
 ---
-
-Short fiction stories are set in different worlds and potential situations of present and future time. They are researching our ways of coexisting from the perspective of humans, as well as animate and inanimate nature. The stories in the book, suitable for older and younger generations, are complemented by a semi-scientific article, which can be a good starting point for a deeper research on the topic.
+Drugi del vključuje zgodbe eko fikcije, ki se nanašajo na specifične okoljske probleme in so postavljene v različne izmišljene svetove ter situacije sedanjosti in prihodnosti. Skoznje lahko raziskujemo nove načine sobivanja, zapisane iz perspektive ljudi ter žive in nežive narave. Vsaka zgodba, primerna za starejše in mlajše generacije, je opremljena z ročno sestavljenim kolažem, narejenim iz izrezkov, ki so bili ustvarjeni s pomočjo umetne inteligence. Knjiga prav tako vsebuje akademski članek, napisan s strani Roka Kranjca, ki je dobra izhodiščna točka za nadaljnje raziskovanje, saj predstavlja alternativne sisteme in dobre prakse.

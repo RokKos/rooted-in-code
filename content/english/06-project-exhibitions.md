@@ -1,5 +1,5 @@
 ---
-title : "PROJECT EXHIBITIONS:"
+title : "PROJECT EXHIBITIONS"
 ---
 
 1. SOLO: <a href="https://kons-platforma.org/dogodki/nejc-trampuz-another-future-entirely/" target="_blank">Another Future Entirely, Simulaker Gallery</a> (Slovenia, Novo mesto, 20 January 2023–18 February 2023,)

@@ -1,5 +1,5 @@
 ---
-title : "ECO FICTION ANTHOLOGY "
+title : "ECO FICTION ANTHOLOGY"
 
 button:
   enable : true
@@ -14,5 +14,4 @@ book_slider:
 - image: "images/book/book03.jpg"
 - image: "images/book/book04.jpg"
 ---
-
-Short fiction stories are set in different worlds and potential situations of present and future time. They are researching our ways of coexisting from the perspective of humans, as well as animate and inanimate nature. The stories in the book, suitable for older and younger generations, are complemented by a semi-scientific article, which can be a good starting point for a deeper research on the topic.
+The second part includes short eco-fiction stories that relate to specific issues and are set in different imaginary worlds and situations of present and future time. Through them we can explore our ways of coexisting, written from the perspective of humans, as well as animate and inanimate nature. Each story, suitable for older and younger generations, is accompanied by manually composed collage, made out of AI-generated cutouts. The book also features an academic article, presenting alternative systems and good practices, written by Rok Kranjc. It is a good starting point for a deeper research on the topic.
