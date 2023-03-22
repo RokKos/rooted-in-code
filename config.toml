@@ -102,25 +102,25 @@ weight = 2
 name = "Dialogues"
 pre = "#"
 url = "dialogs"
-weight = 4
+weight = 3
 
 [[Languages.en.menu.main]]
 name = "Book"
 pre = "#"
 url = "book"
-weight = 5
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "Team"
 pre = "#"
 url = "team"
-weight = 6
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "Info"
 pre = "#"
 url = "project-exhibitions"
-weight = 7
+weight = 6
 
 
 
@@ -140,22 +140,16 @@ copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netli
 # main menu
 
 [[Languages.slo.menu.main]]
-name = "Video predstavitev"
+name = "O projektu"
 pre = "/slo/#"
 url = "video-presentation"
 weight = 2
 
 [[Languages.slo.menu.main]]
-name = "O projektu"
-pre = "/slo/#"
-url = "about"
-weight = 3
-
-[[Languages.slo.menu.main]]
 name = "Dialogi"
 pre = "/slo/#"
 url = "dialogs"
-weight = 4
+weight = 3
 
 [[Languages.slo.menu.main]]
 name = "Knjiga"
@@ -170,7 +164,7 @@ url = "team"
 weight = 6
 
 [[Languages.slo.menu.main]]
-name = "Project Exhibitions"
+name = "Info"
 pre = "/slo/#"
 url = "project-exhibitions"
 weight = 7
