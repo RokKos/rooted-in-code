@@ -7,6 +7,7 @@ ANOTHER FUTURE ENTIRELY, SIMULAKER GALLERY, 2023:
 * <a href="https://www.rtvslo.si/kultura/vizualna-umetnost/popolnoma-drugacna-prihodnost-iskanje-poti-iz-stisk-v-katerih-se-je-znasel-svet/655195" target="_blank">Slovenian national multimedia centre - online article</a>
 * <a href="https://365.rtvslo.si/arhiv/kultura/174931143" target="_blank">Slovenian national TV - report in the Kultura broadcast</a> 
 * <a href="https://365.rtvslo.si/arhiv/svet-kulture/174930811" target="_blank">Slovenian national radio Prvi and Program Ars - report + interview</a> 
+* <a href="https://helsinki.at/program/125286/" target="_blank">Radio Helsinki (Graz, Austria) + Mur.at, podcast</a> 
 * <a href="https://www.mladina.si/222143/pozor-kultura/" target="_blank">Mladina magazine - exhibition announcement; web and printed version</a>
 * <a href="https://outsider.si/nejc-trampuz-popolnoma-drugacna-prihodnost/" target="_blank">Outsider magazine - online article</a> 
 * <a href="https://youtu.be/gVwI2IvV4Og" target="_blank">Art broadcast Sodobna umetnost / Contemporary Art</a>
