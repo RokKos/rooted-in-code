@@ -75,7 +75,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 ################################### English language #####################################
 [Languages.en]
-languageName = ":flag_gb:"
+languageName = "ENG"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
@@ -122,7 +122,7 @@ weight = 6
 
 ################################### Slovene language #####################################
 [Languages.slo]
-languageName = ":flag_si:"
+languageName = "SLO"
 languageCode = "slo-slo"
 contentDir = "content/slovenia"
 weight = 1
