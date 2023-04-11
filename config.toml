@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://another-future-entirely.onrender.com"
+baseURL = "https://another-future-entirely.com"
 title = "Another Future Entirely"
 theme = "somrat"
 # post pagination
@@ -80,8 +80,6 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 
 
 ################# english navigation ##################
@@ -127,8 +125,6 @@ languageCode = "slo-slo"
 contentDir = "content/slovenia"
 weight = 1
 home = "Domov"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 
 
 ################# english navigation ##################
