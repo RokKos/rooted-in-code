@@ -59,7 +59,7 @@ team_core:
   link_icon: "far fa-share-square"
   text_color: "#ed1944"
 
-OthersURL: "#kolofon"
+OthersURL: "/slo/#kolofon"
 ---
 
 & ostali
