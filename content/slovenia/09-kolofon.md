@@ -4,7 +4,7 @@ title : KOLOFON
 ---
 
 **PROJEKT**  
-Umetnik: Nejc Trampuž   
+Umetnik: Nejc Trampuž (z uporabo orodij GPT-3/OpenAI in Midjourney)     
 Kurator in producent: Adrijan Praznik   
 Programer: Rok Kos  
 Oblikovalec zvoka: Tim Kropivšek  

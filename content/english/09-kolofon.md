@@ -4,7 +4,7 @@ title : COLOPHON
 ---
 
 **PROJECT**  
-Artist: Nejc Trampuž   
+Artist: Nejc Trampuž (with the aid of GPT-3/OpenAI and Midjourney)     
 Curator and producer Adrijan Praznik   
 Programmer: Rok Kos  
 Sound design: Tim Kropivšek  
