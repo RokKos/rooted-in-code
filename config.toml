@@ -17,8 +17,8 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 [params]
 favicon = "images/favicon.png"
 # Meta data
-images = ["images/og_image.png"]
-description = "AI-based multimedia art and research project Another Future Entirely by artist Nejc Trampuž offers a refreshing approach to environmental awareness by presenting a brighter, sustainable future and social justice. It includes an audiovisual projection of dialogs and an anthology of short fiction stories."
+images = ["images/og_image.jpg"]
+description = "AI-based environmental art & research project + book by artist Nejc Trampuž"
 author = "Nejc Trampuž"
 
 
