@@ -38,7 +38,8 @@ link = "plugins/owl-carousel/owl.theme.default.min.css"
 link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
 [[params.plugins.css]]
 link = "plugins/baguetteBox/baguetteBox.min.css"
-
+[[params.plugins.css]]
+link = "plugins/lite-youtube/lite-yt-embed.css"
 
 
 # JS Plugins
@@ -58,6 +59,8 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/owl-carousel/owl.carousel.min.js"
 [[params.plugins.js]]
 link = "plugins/baguetteBox/baguetteBox.min.js"
+[[params.plugins.js]]
+link = "plugins/lite-youtube/lite-yt-embed.js"
 
 
 #################### default parameters ################################
