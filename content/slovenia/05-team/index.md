@@ -19,7 +19,7 @@ team_core:
   text_color: "#005844"
 
 - name : "Rok Kos"
-  image : "RokKos_temp.webp"
+  image : "RokKos.webp"
   role : "programer"
   description : "Rok Kos (1997) je razvijalec video iger in interaktivnih doživetij. Po končanem študiju interdisciplinarnega računalništva na Fakulteti za računalništvo in informatiko se je zaposlil v globalnem podjetju Outfit7, kjer je razvijal mobilne igre z več milijardami prenosov. Hkrati razvija lastne projekte, ki vključujejo robotiko, računalništvo in 3D-tiskanje."
   link : "https://vsemu-kos.si"
