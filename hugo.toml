@@ -18,7 +18,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 favicon = "images/favicon.png"
 # Meta data
 images = ["images/og_image.jpg"]
-description = "AI-based environmental art & research project + book by artist Nejc Trampuž"
+description = "a short experimental animated film by Nejc Trampuž, created with the assistance of artificial intelligence"
 author = "Nejc Trampuž"
 
 

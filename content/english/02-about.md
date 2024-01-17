@@ -3,14 +3,12 @@ title : ""
 
 button:
   enable : true
-  label : "READ MORE"
+  label : "PREMIERE"
   # METHOD FROM HERE
-  link : "/pdf/AFE_interactive_spreads.pdf"
+  link : "https://www.osmoza.si/index.php/dogodek/nejc-trampuz-zakoreninjeno-v-kodi"
 ---
-AI-based multimedia art and research project Another Future Entirely by artist Nejc Trampuž offers a refreshing approach to environmental awareness by presenting a brighter, sustainable future and social justice. It includes an audiovisual projection of dialogs and an anthology of short fiction stories.
-<br/><br/>
-What could a more ecological society actually look like? What should our values be? Should we get rid of capitalism? Is technology really a solution? How can we achieve resilience in the face of climate change? Is all this just a utopia? 
-<br/><br/>
-With the assistance of future technology: artificial intelligence (AI), Trampuž created a mental tool that shows us a future, where protection of the ecosystem and social justice is a priority and where we can develop solutions for the global challenges driven by late capitalism and overconsumption, such as global warming and biodiversity loss. The AI learns from the content created by humans and therefore represents a mirror of our discourse and society. At the same time, it allows us to go beyond the familiar and enter the realm of the non-existent. Undeniably, this tool will profoundly affect our society and also our artistic and creative production. Therefore, Trampuž believes that we must explore this new technology and its meaningful applications and also warn of some harmful consequences that this technology might bring. AI was used for writing texts and generating images, which were then collaged together in the final result. 
+The film takes place in the year 2057. In a polluted city, a permaculture garden flourishes on the roof of a skyscraper, tended by a robot gardener and an elderly botanist. Appealing to all ages, the film speculates on the degraded state of the environment, nature and the ecosystem in the future, but at the same time presents a utopian vision and solutions to the environmental crisis. It also brings into the equation a question of the impact artificial intelligence will have on our society, our daily lives and our environment.
+<br><br>
+When animating, the filmmaker Nejc Trampuž explored the capabilities of the rapidly evolving tools of generative artificial intelligence. Those are shaking up the social and artistic realms and entering the field of film production and gaming. The tools were used to generate elements of animation and sound, as well as to write the story, script and visual design of characters and scenes. He worked with the artist and sound designer Tim Kropivšek to create the audio, and the voice was performed by the actor and interpreter Blaž Šef. 
 <!-- Small Text -->
-The project, which was premiered in 2023 at the Simulaker Gallery (Novo mesto, Slovenia), was produced under the patronage of the institute LokalPatriot and KonS ≡ Platform for Contemporary Investigative Arts (Ljubljana, Slovenia).
+Premiere: 9 February 2024 at 7pm at Osmo/za Gallery.

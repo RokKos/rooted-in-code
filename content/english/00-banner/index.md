@@ -1,9 +1,9 @@
 ---
-title : "ANOTHER FUTURE ENTIRELY"
+title : "ROOTED IN CODE"
 
 animated_text:
-- "environmental art & research project + book"
-- "produced with the assistance of an AI"
+- "a short experimental animated film,"
+- "created with the assistance of artificial intelligence"
 
 slider_images:
 - "images/slider/slider-1.wepb"
