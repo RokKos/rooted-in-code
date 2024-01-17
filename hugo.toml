@@ -15,9 +15,9 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 
 #################### default parameters ################################
 [params]
-favicon = "images/favicon.png"
+favicon = "images/favicon.webp"
 # Meta data
-images = ["images/og_image.jpg"]
+images = ["images/og_image.webp"]
 description = "a short experimental animated film by Nejc Trampuž, created with the assistance of artificial intelligence"
 author = "Nejc Trampuž"
 
@@ -91,25 +91,25 @@ home = "Home"
 # main menu
 
 [[Languages.en.menu.main]]
-name = "About"
+name = "Trailer"
 pre = "#"
 url = "video-presentation"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Dialogues"
+name = "About"
 pre = "#"
-url = "dialogs"
+url = "about"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Book"
+name = "Gallery"
 pre = "#"
-url = "book"
+url = "gallery"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "Team"
+name = "Authors"
 pre = "#"
 url = "team"
 weight = 5
