@@ -22,7 +22,7 @@ team_core:
 
 
 - name : "Blaž Šef"
-  image : "ajda.webp"
+  image : "BlazSef.webp"
   role : "graphic design of the book"
   description : "Blaž Šef is a theatre actor working at the Slovenian Youth Theatre. Other projects include radio literary programmes, audio books, co-productions with institutions and NGOs in the field of performing arts, and developing the programmes of the Cultural Centre of European Space Technologies."
   text_color: "#65dbb7"
