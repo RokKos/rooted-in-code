@@ -82,7 +82,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 languageName = "ENG"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 2
+weight = 1 
 home = "Home"
 
 
@@ -136,25 +136,25 @@ home = "Domov"
 # main menu
 
 [[Languages.slo.menu.main]]
-name = "O projektu"
+name = "Napovednik"
 pre = "/slo/#"
 url = "video-presentation"
 weight = 2
 
 [[Languages.slo.menu.main]]
-name = "Dialogi"
+name = "O filmu"
 pre = "/slo/#"
-url = "dialogs"
+url = "about"
 weight = 3
 
 [[Languages.slo.menu.main]]
-name = "Knjiga"
+name = "Galerija"
 pre = "/slo/#"
-url = "book"
+url = "gallery"
 weight = 5
 
 [[Languages.slo.menu.main]]
-name = "Ekipa"
+name = "Avtorji"
 pre = "/slo/#"
 url = "team"
 weight = 6
