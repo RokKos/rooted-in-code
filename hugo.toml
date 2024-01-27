@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://another-future-entirely.com"
-title = "Another Future Entirely"
+baseURL = "https://rooted-in-code.com"
+title = "Rooted In Code"
 theme = "somrat"
 # post pagination
 paginate = "6"
