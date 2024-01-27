@@ -1,16 +1,15 @@
 ---
-title : ""
+title : "O FILMU"
 
 button:
   enable : true
   label : "PREBERI VEČ"
   # METHOD FROM HERE
-  link : "/pdf/AFE_interactive_spreads.pdf"
+  link : "https://www.osmoza.si/index.php/dogodek/nejc-trampuz-zakoreninjeno-v-kodi"
 ---
-Multimedijski raziskovalni umetniški projekt Another Future Entirely (Popolnoma drugačna prihodnost) avtorja Nejca Trampuža temelji na umetni inteligenci in ponuja osvežujoč pristop k ozaveščanju o okolju.  Vključuje avdio-vizualno projekcijo dialogov in antologijo kratkih znanstvenofantastičnih zgodb, ki predstavljajo svetlejšo, trajnostno prihodnost in socialno pravičnost.
-<br/><br/>
-Kakšna pa bi v resnici lahko bila bolj ekološka družba? Kakšne bi morale biti naše vrednote? Bi se morali znebiti kapitalizma? Ali je tehnologija res rešitev? Kako lahko dosežemo odpornost v obziru na podnebne spremembe? Je vse to le utopija?
-<br/><br/>
-S pomočjo tehnologije prihodnosti – umetne inteligence (UI), je Trampuž ustvaril orodje, ki nam prikazuje potencialno bodočnost, kjer je zaščita ekosistema in socialna pravičnost prednostna naloga in kjer lahko razvijamo rešitve za globalne izzive, ki jih poganjajo pozni kapitalizem in prekomerno potrošništvo, kot sta globalno segrevanje in izguba biotske raznovrstnosti. UI se uči iz vsebin, ki jih ustvarjajo ljudje, zato predstavlja ogledalo našega diskurza in družbe. Hkrati nam omogoča, da zapustimo poznano in vstopimo v področje neobstoječega. Nedvomno bo to orodje globoko vplivalo na našo družbo ter tudi na našo umetniško in ustvarjalno produkcijo. Zato Trampuž verjame, da moramo raziskati to novo tehnologijo in njene uporabne vrednosti ter istočasno opozarjati na nekatere škodljive posledice, ki jih lahko ta tehnologija prinese. UI je bila uporabljen za pisanje besedil in generiranje podob, ki so bile nato kolažirane v končni izdelek.
+Dogajanje filma je postavljeno v leto 2057. V onesnaženem mestu se na strehi enega od nebotičnikov bohoti permakulturni vrt, zanj pa skrbi robotski vrtnar skupaj z ostarelo botaničarko. Film, ki je primeren za vse generacije, špekulira o degradiranem stanju okolja, narave in ekosistema v prihodnosti, vendar istočasno predstavi utopično vizijo in rešitve za okoljsko krizo. V enačbo vključi še vprašanje vpliva umetne inteligence na našo družbo, vsakdan ter okolje.
+<br>
+<br>
+Pri praktični izvedbi filma je avtor Nejc Trampuž raziskoval zmogljivosti hitro razvijajočih orodij generativne umetne inteligence, ki dodobra pretresajo družbeno in tudi umetniško sfero ter vstopajo na področje filmske produkcije in igričarstva. Uporabljena so bila orodja za generiranje elementov animacije in zvoka, kot tudi za pisanje zgodbe, scenarija in vizualne zasnove likov in scen. Pri ustvarjanju zvoka je sodeloval z umetnikom in oblikovalcem zvoka Timom Kropivškom, glas pa je posodil igralec ter interpret Blaž Šef. 
 <!-- Small Text -->
-Projekt, ki je bil premierno predstavljen januarja 2023 v galeriji Simulaker (Novo mesto), je bil izdelan pod produkcijskim okriljem inštituta LokalPatriot (Novo mesto) in KonS ≡ platforme za sodobno raziskovalno umetnost (Ljubljana).
+Premiera filma: 9. februar 2024 ob 19. uri v galeriji Osmo/za.

@@ -15,7 +15,7 @@ team_core:
 - name : "Tim Kropivšek"
   image : "tim.webp"
   role : "sound"
-  description : "Tim Kropivšek (1993) is an ilustrator, sound designer and musician. His works are usually interactive and are a commentary on contemporary society, human psyche and environmental injustice. Kropivšek is currently finishing his master studies at ALUO."
+  description : "Tim Kropivšek (1993) is an illustrator, sound designer and musician. His works comment on the human psyche, the values of contemporary society and environmental injustice. He obtained his Masters degree at the Academy of Fine Arts in Ljubljana with the interactive sound installation The New Natural World. He is currently creating enigmatic soundscapes in his duo project Bellows on Titan."
   link : "https://instagram.com/tim.kropivsek"
   link_icon: "fab fa-instagram"
   text_color: "#b282e3"
@@ -23,7 +23,7 @@ team_core:
 
 - name : "Blaž Šef"
   image : "BlazSef.webp"
-  role : "graphic design of the book"
+  role : "voice"
   description : "Blaž Šef is a theatre actor working at the Slovenian Youth Theatre. Other projects include radio literary programmes, audio books, co-productions with institutions and NGOs in the field of performing arts, and developing the programmes of the Cultural Centre of European Space Technologies."
   text_color: "#65dbb7"
             
