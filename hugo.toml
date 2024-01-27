@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://rooted-in-code.com"
+baseURL = "https://rooted-in-code.onrender.com"
 title = "Rooted In Code"
 theme = "somrat"
 # post pagination
