@@ -1361,12 +1361,14 @@ textarea.form-control::-webkit-input-placeholder,
 }
 
 .video-overlay{
-  width: 100%; /* Full width (cover the whole page) */
-  height: 100%; /* Full height (cover the whole page) */
+  position: fixed; /* Use fixed or absolute positioning */
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
+  width: 100%;  /* Full width */
+  height: 100%; /* Full height */
+  object-fit: cover; /* Preserve aspect ratio while covering entire viewport */
   background-color: rgba(0,0,0,0.8); /* Black background with opacity */
   z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
 }

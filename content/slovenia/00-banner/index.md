@@ -1,5 +1,5 @@
 ---
-title : "ZAKORENINJENO V KODI"
+title : "ZAKORENINJENO<br>V<br>KODI"
 
 animated_text:
 - "kratki eksperimentalni animirani film Nejca Trampuža"

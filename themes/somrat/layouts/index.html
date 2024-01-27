@@ -4,13 +4,8 @@
 {{ with .GetPage "00-banner" }}
 <section class="header {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="home">
   <div class="owl-carousel owl-full-width owl-theme" id="background-slide">
-    <!--{{ range $elem_index, $elem_val := .Page.Resources }}
-    <div class="slider">
-      {{partial "img-header-bg.html" (dict "File" $elem_val "Alt" $elem_val "Position" $elem_index)}}
-    </div>
-    {{ end }}-->
     <div class="video-overlay">
-      <video autoplay muted loop id="Trampuz_AI_Animated_Film_Rooted_In_Code-Zakoreninjeno_V_Kodi_teaser_website">
+      <video autoplay muted loop id="Trampuz_AI_Animated_Film_Rooted_In_Code-Zakoreninjeno_V_Kodi_teaser_website" class="video-overlay">
         <source src="/Trampuz_AI_Animated_Film_Rooted_In_Code-Zakoreninjeno_V_Kodi_teaser_website-2.mp4" type="video/mp4">
       </video>
     </div>
