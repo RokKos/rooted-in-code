@@ -19,7 +19,7 @@ team_core:
   description : "Tim Kropivšek (1993) je ilustrator, oblikovalec zvoka in glasbenik. Njegova dela komentirajo človeško psiho, vrednote sodobne družbe in okoljsko nepravičnost. Magistriral je na ALUO v Ljubljani z interaktivno zvočno instalacijo Novi naravni svet. Trenutno ustvarja enigmatične zvočne pokrajine v duo projektu Bellows on Titan."
   link : "https://instagram.com/tim.kropivsek"
   link_icon: "fab fa-instagram"
-  text_color: "#2d317d"
+  text_color: "#b282e3"
 
 - name : "Blaž Šef"
   image : "BlazSef.webp"
