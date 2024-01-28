@@ -1373,6 +1373,17 @@ textarea.form-control::-webkit-input-placeholder,
   z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
 }
 
+.arrow-down{
+  position: fixed; /* Use fixed or absolute positioning */
+  top: 95%;
+  left: 45%;
+  right: 55%;
+  bottom: 100%;
+  width: 10%;  /* Full width */
+  height: 10%; /* Full height */
+  object-fit: cover; /* Preserve aspect ratio while covering entire viewport */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+}
 
 /* ---- Gallery -------------------*/
 .gallery-block.grid-gallery{
