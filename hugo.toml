@@ -1,6 +1,5 @@
 ######################## default configuration ####################
 baseURL = "https://rooted-in-code.onrender.com"
-title = "Rooted In Code"
 theme = "somrat"
 # post pagination
 paginate = "6"
@@ -79,6 +78,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 ################################### English language #####################################
 [Languages.en]
+title = "Rooted In Code"
 languageName = "ENG"
 languageCode = "en-us"
 contentDir = "content/english"
@@ -124,6 +124,7 @@ weight = 6
 
 ################################### Slovene language #####################################
 [Languages.slo]
+title = "Zakoreninjeno v kodi"
 languageName = "SLO"
 languageCode = "slo-slo"
 contentDir = "content/slovenia"
