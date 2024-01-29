@@ -9,7 +9,7 @@ team_lead_link: "https://instagram.com/nejctrampuz"
 team_lead_link_icon: "fab fa-instagram"
 team_lead_link_email: "nejc.trampuz@gmail.com"
 team_lead_link_icon_email: "far fa-envelope"
-team_lead_text_color: "#f04e2c"
+team_lead_text_color: "#ef8273"
 
 team_core:
 - name : "Tim Kropivšek"
@@ -18,14 +18,14 @@ team_core:
   description : "Tim Kropivšek (1993) is an illustrator, sound designer and musician. His works comment on the human psyche, the values of contemporary society and environmental injustice. He obtained his Masters degree at the Academy of Fine Arts in Ljubljana with the interactive sound installation The New Natural World. He is currently creating enigmatic soundscapes in his duo project Bellows on Titan."
   link : "https://instagram.com/tim.kropivsek"
   link_icon: "fab fa-instagram"
-  text_color: "#b282e3"
+  text_color: "#9780bc"
 
 
 - name : "Blaž Šef"
   image : "BlazSef.webp"
   role : "voice"
-  description : "Blaž Šef is a theatre actor working at the Slovenian Youth Theatre. Other projects include radio literary programmes, audio books, co-productions with institutions and NGOs in the field of performing arts, and developing the programmes of the Cultural Centre of European Space Technologies."
-  text_color: "#65dbb7"
+  description : "Blaž Šef is a theatre actor working at the Slovenian Youth Theatre. Other projects include radio literary programmes, audio books, co-productions with institutions and NGOs in the field of performing arts, and developing the programmes of the Cultural Centre of European Space Technologies.<br><br>photo: Luka Kaše / Slovenian Youth Theatre"
+  text_color: "#4abc90"
             
 
 OthersURL: "#kolofon"

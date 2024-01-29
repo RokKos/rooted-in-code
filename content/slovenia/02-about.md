@@ -3,7 +3,7 @@ title : "O FILMU"
 
 button:
   enable : true
-  label : "PREBERI VEČ"
+  label : "PREMIERA"
   # METHOD FROM HERE
   link : "https://www.osmoza.si/index.php/dogodek/nejc-trampuz-zakoreninjeno-v-kodi"
 ---

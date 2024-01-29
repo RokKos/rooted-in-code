@@ -3,24 +3,24 @@ title : COLOPHON
 
 ---
 
-Film length:  13 m 23 s
-Year of production: 2023
-Premiere: 2024
+Film length:  13m 23s<br> 
+Year of production: 2023<br> 
+Premiere: 2024<br> 
 
-Director and Producer: Nejc Trampuž
-Story, Script, Storyboard: Nejc Trampuž + AI
-Animation: Nejc Trampuž + AI
+Director and Producer: Nejc Trampuž<br> 
+Story, Script, Storyboard: Nejc Trampuž + AI<br> 
+Animation: Nejc Trampuž + AI<br> 
 Image editing and Post-production: Nejc Trampuž
 
-Sound generation: Tim Kropivšek + AI
-Sound design and music: Tim Kropivšek
-Voice: Blaž Šef
-Recording of Voice: Anže Čanžek
+Sound generation: Tim Kropivšek + AI<br> 
+Sound design and music: Tim Kropivšek<br> 
+Voice: Blaž Šef<br> 
+Recording of Voice: Anže Čanžek<br> 
 
 
 <!-- section break -->
 Consulting: Špela Frlic, Andrej Kamnik, Luka Tišler, Lena Penšek, Rok Kos, Jan Šimnovec, Vesna Skubic
-Translation: Domen Kavčič
+Translation: Domen Kavčič<br> 
 
 Artificial Intelligence Tools: Pika Labs beta, Stable Diffusion, AnimateDiff v2, GPT 3.5 / 4.0, Midjourney v5.2, Stable Audio 1.0 / 1.1
 

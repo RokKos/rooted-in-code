@@ -312,7 +312,7 @@ body {
 }
 
 .introduction {
-  font-size: 150px;
+  font-size: 120px;
   font-family: 'Labour';
   line-height: 1;
   overflow-wrap: anywhere;
@@ -558,7 +558,7 @@ a:hover, a:visited, a:link, a:active {
 }
 
 .menu-normal {
-  background: #65dbb7;
+  background: #a0e8ce;
 }
 
 .menu-container-transparent {
@@ -1542,8 +1542,9 @@ textarea.form-control::-webkit-input-placeholder,
 
 @media(max-width: 550px) and (min-height: 501px) {
   .introduction {
-    font-size: 65px;
+    font-size: 45px;
     margin-bottom: 5px;
+    letter-spacing: 5px;
   }
 
   .animated-text {
@@ -1562,7 +1563,7 @@ textarea.form-control::-webkit-input-placeholder,
   }
 
   .gallery-block.grid-gallery{
-    padding-bottom: 0px;
+    padding-bottom: 70px;
     padding-top: 0px;
     background-color: #000000;
   }
