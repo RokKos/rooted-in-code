@@ -18,7 +18,7 @@ Glas: Blaž Šef<br>
 Snemanje glasu: Anže Čanžek<br>
 
 <!-- section break -->
-Svetovanje: Špela Frlic, Andrej Kamnik, Luka Tišler, Lena Penšek, Rok Kos, Jan Šimnovec, Vesna Skubic, Jure Gubanc
+Svetovanje: Špela Frlic, Andrej Kamnik, Luka Tišler, Lena Penšek, Rok Kos, Jan Šimnovec, Vesna Skubic, Jure Gubanc<br>
 Prevod: Domen Kavčič<br>
 
 Orodja umetne inteligence: Pika Labs beta, Stable Diffusion, AnimateDiff v2, GPT 3.5 / 4.0, Midjourney v5.2, Stable Audio 1.0 / 1.1
