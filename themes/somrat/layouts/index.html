@@ -257,6 +257,26 @@
 {{ end }}
 <!-- End team -->
 
+<!-- book -->
+{{ with .GetPage "04-book" }}
+<section class="book {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="book">
+  <div class="container">
+    <div class="row no-marginLR book-holder">
+      <div class="book-text">
+      </div>
+      <div class="owl-carousel full-width-img  wow fadeInUp" data-wow-duration="1.5s">
+        {{ range .Page.Resources }}
+          <div class="testimonial-holder">
+            {{partial "img.html" (dict "File" . "Alt" .)}}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }} 
+<!-- end book -->
+
 <!-- Start PROJECT EXHIBITIONS -->
 {{ with .GetPage "06-project-exhibitions"}}
 <section class="project-exhibitions {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="project-exhibitions">
@@ -273,7 +293,7 @@
 <!-- End PROJECT EXHIBITIONS -->
 
 <!-- Start media-coverage -->
-<!-- {{ with .GetPage "08-media-coverage"}}
+{{ with .GetPage "08-media-coverage"}}
 <section class="media-coverage {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="media-coverage">
   <div class="container">
     <div class="row no-marginLR">
@@ -287,7 +307,7 @@
     </div>
   </div>
 </section>
-{{ end }} -->
+{{ end }} 
 <!-- End media-coverage -->
 
 <!-- Start kolofon -->
@@ -337,24 +357,5 @@
 {{ end }}
 <!-- End Contact -->
 
-<!-- book -->
-<!-- {{ with .GetPage "04-book" }}
-<section class="book {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="book">
-  <div class="container">
-    <div class="row no-marginLR book-holder">
-      <div class="book-text">
-      </div>
-      <div class="owl-carousel full-width-img  wow fadeInUp" data-wow-duration="1.5s">
-        {{ range .Page.Resources }}
-          <div class="testimonial-holder">
-            {{partial "img.html" (dict "File" . "Alt" .)}}
-          </div>
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }} -->
-<!-- end book -->
 
 {{ end }}
