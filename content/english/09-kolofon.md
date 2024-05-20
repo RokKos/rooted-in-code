@@ -22,7 +22,7 @@ Recording of Voice: Anže Čanžek<br>
 Consulting: Špela Frlic, Andrej Kamnik, Luka Tišler, Lena Penšek, Rok Kos, Jan Šimnovec, Vesna Skubic, Jure Gubanc<br>
 Translation: Domen Kavčič<br> 
 
-Artificial Intelligence Tools: Pika Labs beta, Stable Diffusion, AnimateDiff v2, GPT 3.5 / 4.0, Midjourney v5.2, Stable Audio 1.0 / 1.1
+Artificial Intelligence Tools: Pika Labs beta, Stable Diffusion, AnimateDiff v2 - ComfyUI on ThinkDiffusion, GPT 3.5 / 4.0, Midjourney v5.2, Stable Audio 1.0 / 1.1
 
 Financial support: Ministry of Culture of the Republic of Slovenia
 <!-- section break -->
