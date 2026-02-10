@@ -9,7 +9,5 @@ title : "MEDIJSKE OBJAVE"
 * <a href="https://independent.gr/κινηματογράφος/human-traces" target="_blank"> Independent.gr (Grčija) - o podelitvi Nagrade za najboljši film na festivalu Balkans Beyond Borders filmu Zakoreninjeno v kodi</a>
 * <a href="https://www.rtvslo.si/kultura/film-in-tv/na-festivalu-neodvisnega-filma-jagodni-izbor-slovenske-neodvisne-produkcije/705563" target="_blank"> TV Slovenija 1 + MMC - napoved projekcije na Festivalu neodvisnega filma</a>
 * <a href="https://megafon.si/kultura-vse/na-festivalu-neodvisnega-filma-jagodni-izbor-slovenske-neodvisne-filmske-produkcije/" target="_blank"> Novičarski portal Megafon - napoved projekcije na Festivalu neodvisnega filma</a>
-* <a href="https://n1info.si/novice/kultura/so-kratki-filmi-res-obsojeni-le-na-nekaj-deset-ogledov/" target="_blank"> N1 portal - o Festivalu neodvisnega filma</a>
-* <a href="https://www.robin.si/zanimivosti/v-ruski-jami-snujejo-vesoljsko-kapsulo-ki-bo-krasko-rastlinje-poslala-v-vesolje/" target="_blank"> Radio Robin - napoved dogodka Astrotop_X</a>
-* <a href="https://portalvvesolje.si/dogodki/2024/Astrotop_x_med_astronomijo_umetnostjo_in_ekologijo" target="_blank"> Portal V vesolje - napoved dogodka Astrotop_X </a>
+* <a href="https://www.mlad.si/na-kriziscu-mladosti-z-nejcem-trampuzem/" target="_blank"> Mlad.si – Na Križišču mladosti z Nejcem Trampužem, podcast / intervju</a>
 * <a href="https://www.oblakodermagazin.rs/kulturna-desavanja-u-gradu-28-5-2-6/" target="_blank"> Oblakoder Magazin (Beograd, Srbija) - napovednik razstave & projekcije Generisane budučnosti</a>

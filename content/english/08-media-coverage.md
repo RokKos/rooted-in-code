@@ -8,7 +8,5 @@ title : "MEDIA COVERAGE"
 * <a href="https://independent.gr/κινηματογράφος/human-traces" target="_blank"> Independent.gr (Greece) – about the Best Film Award of Balkans Beyond Borders film festival, handed out to Rooted in Code</a>
 * <a href="https://www.rtvslo.si/kultura/film-in-tv/na-festivalu-neodvisnega-filma-jagodni-izbor-slovenske-neodvisne-produkcije/705563" target="_blank"> TV Slovenija 1 + MMC – announcement of the screening at the Independent Film Festival</a>
 * <a href="https://megafon.si/kultura-vse/na-festivalu-neodvisnega-filma-jagodni-izbor-slovenske-neodvisne-filmske-produkcije/" target="_blank"> News portal Megafon – announcement of the screening at the Independent Film Festival</a>
-* <a href="https://n1info.si/novice/kultura/so-kratki-filmi-res-obsojeni-le-na-nekaj-deset-ogledov/" target="_blank"> N1 portal – about the Independent Film Festival</a>
-* <a href="https://www.robin.si/zanimivosti/v-ruski-jami-snujejo-vesoljsko-kapsulo-ki-bo-krasko-rastlinje-poslala-v-vesolje/" target="_blank"> Radio Robin – announcement of the Astrotop_X event</a>
-* <a href="https://portalvvesolje.si/dogodki/2024/Astrotop_x_med_astronomijo_umetnostjo_in_ekologijo" target="_blank"> Portal V vesolje – announcement of the Astrotop_X event</a>
+* <a href="https://www.mlad.si/na-kriziscu-mladosti-z-nejcem-trampuzem/" target="_blank"> Mlad.si – Na Križišču mladosti z Nejcem Trampužem, podcast / intervju</a>
 * <a href="https://www.oblakodermagazin.rs/kulturna-desavanja-u-gradu-28-5-2-6/" target="_blank"> Oblakoder Magazin (Belgrade, Serbia) – announcement of the Generisane Budućnosti exhibition & screening</a>
