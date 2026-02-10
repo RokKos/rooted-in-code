@@ -2,7 +2,8 @@
 baseURL = "https://rooted-in-code.com"
 theme = "somrat"
 # post pagination
-paginate = "6"
+[pagination]
+  pagerSize = 6
 # post excerpt
 summaryLength = "10"
 # disable language
