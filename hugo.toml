@@ -8,10 +8,12 @@ theme = "somrat"
 summaryLength = "10"
 # disable language
 disableLanguages = [] # disable language from here
-# google analutics
-googleAnalytics = "G-3PTM6YVKQG" # example : UA-123-45
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
+
+# google analytics (GA4)
+[services.googleanalytics]
+  ID = "G-3PTM6YVKQG"
 
 #################### default parameters ################################
 [params]
